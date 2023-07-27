@@ -1,2 +1,2 @@
 # testing
-Testing  Git anb GitHub project
+Testing  Git and GitHub project
